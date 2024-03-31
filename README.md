@@ -5,7 +5,7 @@
 Welcome to My Account.
 Hope you all are having fun on GitHup.
 
-# let's create someting snew and spacial today.
+# let's create someting new and spacial today.
 
 ### Happy codding everyone!!!
 
