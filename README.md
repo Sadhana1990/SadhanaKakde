@@ -4,7 +4,7 @@
 ### Hello everyone,
 # Welcome to My Account!!!
 
-Hope, you all are having fun on GitHup.
+Hope, you all are having fun on my GitHup.
 
 # let's create someting new and spacial today in tech field 
 
