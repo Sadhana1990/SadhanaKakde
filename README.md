@@ -1,10 +1,10 @@
 
 # Hey this me,  
 ### SADHANA KAKDE
-### Hello everyone,
+### Hello everyone!!!,
 # Welcome to My Account!!!
 
-Hope, you all are having fun on my GitHup.
+Hope, you all are having fun on GitHup today.
 
 # let's create someting new and spacial today in tech field 
 
